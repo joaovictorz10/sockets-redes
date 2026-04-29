@@ -1,4 +1,4 @@
-# Relatório Prático: Sockets TCP e UDP
+# Resumo prático: Sockets TCP e UDP
 
 Este repositório contém a implementação e os testes dos códigos fornecidos na atividade referente ao slide `REDES3_ES_TCP_Sockets_Parte2.pdf`.
 
